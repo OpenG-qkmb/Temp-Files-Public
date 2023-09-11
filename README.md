@@ -27,4 +27,4 @@ AUOJ-[AAA]-[BBBB].cpp
 
 [AUOJ](http://auoj.net)
 
-[哈儿实验室](https://openg-qkmb.github.io/)
+[哈儿实验室](https://khayer.cn/)
